@@ -5,6 +5,13 @@ Legacy digital pathology tries to build a factory around you - forcing your labo
 But you don't need a new factory - you need a better **hammer**. Sphyra 1 is a digital-native instrument designed to act as an extension of your own hands.
 
 
+<img height="300" src="./assets/microscope_concept.png">
+<br>
+
+See here for working 3D point cloud https://studio.tripo3d.ai/workspace/generate/25497be9-af69-466f-ad90-2022d839dbc1
+
+
+
 ## Project Structure
 
 All documentation can be found in the `docs` directory, which primarily contains explantions as well as engineering drawings. The 3D designs and project
